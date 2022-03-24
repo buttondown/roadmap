@@ -11,7 +11,7 @@ If you're interested in the specific [labels](https://github.com/buttondown-emai
 | Tag | Description |
 | --- | --- |
 | [**bug**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Abug) | Items labeled `bug` are, well, bugs. I tend to take these pretty seriously. |
-| [**documentation**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Adocumenation) | Items labeled `documentation` are improvements to [docs.buttondown.email](https://docs.buttondown.email). (Did you know that was [open source](https://github.com/buttondown-email/docs)?) |
+| [**documentation**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation) | Items labeled `documentation` are improvements to [docs.buttondown.email](https://docs.buttondown.email). (Did you know that was [open source](https://github.com/buttondown-email/docs)?) |
 | [**ergonomics**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Aergonomics) | Items labeled `ergonomics` are fixing paper cuts and making things just a little _nicer_.  |
 | [**feature**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Afeature) | Items labeled `feature` are brand-new functionality. I am pretty surgical and persnickety with this work: I try to be very mindful of when and how to grow Buttondown's surface area, with the full understanding that with each new feature comes complexity. |
 | [**integrations**](https://github.com/buttondown-email/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3Aintegrations) | Items labeled `integrations` are integrations with other services like Slack, Zapier, or IFTTT. |
