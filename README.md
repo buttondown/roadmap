@@ -1,6 +1,8 @@
 This is Buttondown's public roadmap and issue tracker. Please feel free to watch, comment on, or create issues (though please don't be offended if I close or modify them!)
 
-The issue tracker can be a large and daunting place — for us, the people who _build_ Buttondown, let alone hapless bystanders and spectators! If you're looking to find out what we're working on in a given point in time, I'd recommend poking around the [projects view](https://github.com/orgs/buttondown-email/projects/3/views/1) which breaks down the work in a bit more detail.
+The issue tracker can be a large and daunting place — for us, the people who _build_ Buttondown, let alone hapless bystanders and spectators! We've got two things to make it a little bit easier:
+
+1. The [long-term roadmap](https://github.com/orgs/buttondown/projects/8), a quarterly projection of major projects we're shipping over the next twelve months.
 
 
 If you're interested in the specific [labels](https://github.com/buttondown-email/roadmap/labels) I use, here's a handy primer:
