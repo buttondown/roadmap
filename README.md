@@ -3,6 +3,7 @@ This is Buttondown's public roadmap and issue tracker. Please feel free to watch
 The issue tracker can be a large and daunting place — for us, the people who _build_ Buttondown, let alone hapless bystanders and spectators! We've got two things to make it a little bit easier:
 
 1. The [long-term roadmap](https://github.com/orgs/buttondown/projects/8), a quarterly projection of major projects we're shipping over the next twelve months.
+2. The [bug tracker](https://github.com/orgs/buttondown/projects/8/views/4), which is a slightly more pleasant way of poking around the issue tracker
 
 
 If you're interested in the specific [labels](https://github.com/buttondown-email/roadmap/labels) I use, here's a handy primer:
