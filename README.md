@@ -1,3 +1,6 @@
+> [!NOTE]
+> This roadmap is still monitored, but [deprecated in favor of Linear](https://github.com/buttondown/discussions/discussions/50).
+
 This is Buttondown's public roadmap and issue tracker. Please feel free to watch, comment on, or create issues (though please don't be offended if I close or modify them!)
 
 The issue tracker can be a large and daunting place — for us, the people who _build_ Buttondown, let alone hapless bystanders and spectators! We've got two things to make it a little bit easier:
